@@ -16,6 +16,7 @@
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fabio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5603AQGxewPG4R5vFg/profile-displayphoto-shrink_800_800/0/1595885765572?e=1639612800&v=beta&t=0Svgmwaq8RppXbXW3sfmWM9aMBv4EnK8pWQscIdmoMY?width=676&height=676">
 </div>
 
 ##
