@@ -1,4 +1,4 @@
-## Olá eu sou o Fábio Mattes, desenvolvedor C#, Python e PHP
+## Olá eu sou o Fábio Mattes, desenvolvedor C#, Python, Typescript e PHP
 - 🔭 Estou atualmente trabalhando com C# e Python
 - 🌱 Estou atualmente aprendendo Big Data e Machine Learning
 
