@@ -19,6 +19,7 @@
   <img align="center" alt="Fabio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Fabio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Fabio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Fabio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="right" alt="Fabio-pic" height="150" style="border-radius:50px;" src="https://rh.benner.com.br/RHWEB/GetProfileImage.ashx?hnd=tfXgRoUmy4ZxkF8z%2FUhk4A%3D%3D&dt=20211011075815?width=676&height=676">
 </div>
 
