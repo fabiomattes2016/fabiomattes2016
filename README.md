@@ -1,6 +1,27 @@
-## Olá eu sou o Fábio Mattes, desenvolvedor C#, Python, Typescript e PHP
-- 🔭 Estou atualmente trabalhando com C# e Python
-- 🌱 Estou atualmente aprendendo Big Data e Machine Learning
+# Fábio Mattes
+
+## Desenvolvedor Sênior | Brasil 🇧🇷
+
+### Linguagens:
+- C#
+- Java
+- JavaScript
+- TypeScript
+- PHP
+- Python
+
+### Experiência em:
+- .NET Core
+- Spring Boot Framework
+- FastAPI
+- MySQL
+- PostgreSQL
+- SQL Server
+
+Seja bem-vindo ao meu perfil! Sou um desenvolvedor sênior com experiência em diversas linguagens e frameworks. Minha jornada inclui trabalhos com C#, Java, JavaScript, TypeScript, PHP e Python. Possuo expertise em tecnologias como .NET Core, Spring Boot Framework, FastAPI e bancos de dados como MySQL, PostgreSQL e SQL Server.
+
+Fique à vontade para explorar meus repositórios e projetos. Estou sempre em busca de desafios interessantes e oportunidades de colaboração. Vamos construir algo incrível juntos!
+
 
 <div align="center">
   <a href="https://github.com/fabiomattes2016">
