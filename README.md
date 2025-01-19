@@ -14,6 +14,7 @@
 - .NET Core
 - Spring Boot Framework
 - FastAPI
+- Django
 - MySQL
 - PostgreSQL
 - SQL Server
